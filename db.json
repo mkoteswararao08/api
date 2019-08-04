@@ -1,0 +1,46 @@
+{
+	"apps": [
+    {
+		"id": 1,
+		"name": "GT",
+		"description": "Employee portail to maintain the emp details ..",
+		"imgUrls": ["gt-log.png", "gt-benefits.png","gt-home.png"],
+		"specifications": ["HR login", "employee Login"]
+    },
+    {
+		"id": 2,
+		"name": "Smart Chit",
+		"description": "Chit fund application ",
+		"imgUrls": ["smart-chit-log.jpg", "smart-chit-benefits.jpg", "smart-chit-home.jpg"],
+		"specifications": ["Admin login", "Customer login"]
+    },
+    {
+		"id": 3,
+		"name": "Smart Chit",
+		"description": "Chit fund application ",
+		"imgUrls": ["smart-chit-log.jpg", "smart-chit-benefits.jpg", "smart-chit-home.jpg"],
+		"specifications": ["Admin login", "Customer login"]
+    },
+    {
+		"id": 4,
+		"name": "Smart Chit",
+		"description": "Chit fund application ",
+		"imgUrls": ["smart-chit-log.jpg", "smart-chit-benefits.jpg", "smart-chit-home.jpg"],
+		"specifications": ["Admin login", "Customer login"]
+    },
+    {
+		"id": 5,
+		"name": "Smart Chit",
+		"description": "Chit fund application ",
+		"imgUrls": ["smart-chit-log.jpg", "smart-chit-benefits.jpg", "smart-chit-home.jpg"],
+		"specifications": ["Admin login", "Customer login"]
+    },
+    {
+		"id": 6,
+		"name": "Smart Chit",
+		"description": "Chit fund application ",
+		"imgUrls": ["smart-chit-log.jpg", "smart-chit-benefits.jpg", "smart-chit-home.jpg"],
+		"specifications": ["Admin login", "Customer login"]
+    }
+  ]
+}
